@@ -11,8 +11,8 @@ const App = () => {
   const [weatherData, setWeatherData] = useState({});
   const [filteredPlaces, setFilteredPlaces] = useState([]);
   const [coordinates, setCoordinates] = useState({
-    lat: 10.0720543,
-    lng: 105.7563025,
+    lat: 10.7628304144077,
+    lng: 106.68251320167859,
   });
   const [bounds, setBounds] = useState({});
   const [childClicked, setChildClicked] = useState(null);
